@@ -28,9 +28,7 @@
 
 **[LangTrack](https://langtrack.app)** · 2025
 
-A time tracker for language learning. Log a session, keep the streak going, and
-find out where the hours actually went. Built and shipped solo, with the domain
-logic — streaks, XP, fluency estimates — covered by 317 tests.
+A time tracker for language learning.
 
 <sub>Next.js · React · TypeScript · Firebase · Vercel</sub>
 
